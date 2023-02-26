@@ -1,4 +1,5 @@
-### Hi there 👋
+<center> <Hi, Im Randy Do🫡>heading 1</h1> </center>
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhmMDg5OTY1ZmNiM2UwNWRiNjZhMWU2MTU3NWFlMzhjNzVhMWU2MCZjdD1z/W8oRwnoBndXVQ3OERD/giphy.gif)
 
 <!--
 **randyydoo/randyydoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
