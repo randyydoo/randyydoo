@@ -8,6 +8,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=randyydoo&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=randyydoo)  
-
 ![Profile views](https://gpvc.arturio.dev/randyydoo)  
