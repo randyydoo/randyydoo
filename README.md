@@ -2,7 +2,7 @@
 <center> <h1>Hi, I'm Randy Do🫡</h1> </center>
 
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhmMDg5OTY1ZmNiM2UwNWRiNjZhMWU2MTU3NWFlMzhjNzVhMWU2MCZjdD1z/W8oRwnoBndXVQ3OERD/giphy.gif)
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhmMDg5OTY1ZmNiM2UwNWRiNjZhMWU2MTU3NWFlMzhjNzVhMWU2MCZjdD1z/W8oRwnoBndXVQ3OERD/giphy.gif" width="250" height="350" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhmMDg5OTY1ZmNiM2UwNWRiNjZhMWU2MTU3NWFlMzhjNzVhMWU2MCZjdD1z/W8oRwnoBndXVQ3OERD/giphy.gif" width="350" height="250" />
 
 <!--
 **randyydoo/randyydoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
