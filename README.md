@@ -4,8 +4,7 @@
 
 ## 🔗Links
 ![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-	">](http://google.com.au/)
+[<img src="https://skillicons.dev/icons?i=linkedin">](http://google.com.au/)
 
 ## 👨🏻‍💻About me
 - 🎓 Third year computer science major at CSUF
