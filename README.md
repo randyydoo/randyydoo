@@ -14,7 +14,7 @@
 ## 📊My Stats
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=randyydoo&show_icons=true&theme=algolia)  
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=randyydoo&layout=compact)](https://github.com/randyydoo/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=randyydoo&theme=algolia)](https://github.com/randyydoo/github-readme-stats)
 
 
 ![Profile views](https://gpvc.arturio.dev/randyydoo)  
