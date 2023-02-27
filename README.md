@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/randyydoo"/>
+  <img src="https://gpvc.arturio.dev/randyydoo&theme=algolia"/>
 </p>
 
 ## 🔗Links
