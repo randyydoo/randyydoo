@@ -3,8 +3,8 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhmMDg5OTY1ZmNiM2UwNWRiNjZhMWU2MTU3NWFlMzhjNzVhMWU2MCZjdD1z/W8oRwnoBndXVQ3OERD/giphy.gif" width="500" height="410" />
 
 ## 🔗Links
-[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://shields.io/)
-[<img src="https://skillicons.dev/icons?i=linkedin">](http://google.com.au/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randy-do-26b63b209)
+
 
 ## 👨🏻‍💻About me
 - 🎓 Third year computer science major at CSUF
