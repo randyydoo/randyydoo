@@ -4,7 +4,9 @@
   <img width="500" height="410" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhmMDg5OTY1ZmNiM2UwNWRiNjZhMWU2MTU3NWFlMzhjNzVhMWU2MCZjdD1z/W8oRwnoBndXVQ3OERD/giphy.gif">
 </p>
 
-
+<p align="center">
+  <img src="https://gpvc.arturio.dev/randyydoo"/>
+</p>
 ## 🔗Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randy-do-26b63b209)
 
