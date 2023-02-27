@@ -20,11 +20,6 @@
 - 🏀 My favorite hobby is to play basketball
 
 ## 📊My Stats
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=randyydoo&show_icons=true&theme=algolia)  
-
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=randyydoo&theme=algolia)](https://github.com/randyydoo/github-readme-stats)
-
-
 <div>
     <img align=top src="https://github-readme-stats-sigma-five.vercel.app/api?username=randyydoo&show_icons=true&theme=algolia"/>
     <img align=top src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=randyydoo&theme=algolia"/>
