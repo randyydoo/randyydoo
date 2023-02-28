@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=randyydo&icon=3&color=10"/>
+  <img src="https://visitcount.itsvg.in/api?id=randyydo&icon=3&color=0"/>
 </p>
 
 ## 🔗Links
