@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=randyydo&icon=3&color=0"/>
+  <img src="https://gpvc.arturio.dev/randyydoo"/>
 </p>
 
 ## 🔗Links
