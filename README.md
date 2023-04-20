@@ -16,7 +16,7 @@
 
 ## 👨🏻‍💻About me
 - 🎓 Third year computer science major at CSUF
-- 🤔 Currently working on making personal website
+- 🤔 Learning about random stuff
 - 🏀 My favorite hobby is to play basketball
 
 ## 📊My Stats
