@@ -21,6 +21,6 @@
 
 ## 📊My Stats
 <div>
-    <img align=top src="https://github-readme-stats-sigma-five.vercel.app/api?username=randyydoo&show_icons=true&theme=algolia"/>
+    <img align=top src="https://github-readme-stats-sigma-five.vercel.app/api?username=randyydoo&show_icons=true&theme=algolia&include_all_commits=true&hide=stars"/>
     <img align=top src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=randyydoo&theme=algolia"/>
 <div>
