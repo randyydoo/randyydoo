@@ -9,9 +9,12 @@
 <p align="center">
   <img src="https://gpvc.arturio.dev/randyydoo"/>
 </p>
+<p align="left">
 ## 💡 I've Used
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="html" style= " margin: 4px; vertical-align:top" />
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="html" style= "margin: 4px; vertical-align:top"/>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="html" style= " margin: 2px; vertical-align:top" />
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="html" style= "margin: 2px; vertical-align:top"/>
+ </p>
+ 
 ## 🔗Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randy-do-26b63b209)
 
