@@ -9,12 +9,14 @@
 <p align="center">
   <img src="https://gpvc.arturio.dev/randyydoo"/>
 </p>
-
+## 💡 I've Used
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="html" style="vertical-align:top" />
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="html" style="vertical-align:top"/>
 ## 🔗Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randy-do-26b63b209)
 
 
-## 👨🏻‍💻About me
+## 👨🏻‍💻About Me
 - 🎓 Third year computer science major at CSUF
 - 🤔 Learning about random stuff
 - 🏀 My favorite hobby is to play basketball
