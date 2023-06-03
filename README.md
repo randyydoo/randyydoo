@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/randyydoo"/>
+  <img src="(https://komarev.com/ghpvc/?username=randyydoo&style=plastic)"/>
 </p>
 
 ## 💡 I've Used
