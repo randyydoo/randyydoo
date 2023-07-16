@@ -27,6 +27,10 @@
 
 <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="html" style= "margin: 5px; vertical-align:top"/> 
 
+<img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="html" style= "margin: 5px; vertical-align:top"/> 
+
+<img src="https://img.shields.io/badge/-OpenAI-grey?style=for-the-badge&logoColor=white&logo=openai" alt="html" style= "margin: 5px; vertical-align:top"/> 
+
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="html" style= "margin: 5px; vertical-align:top"/> 
 
 <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" alt="html" style= "margin: 5px; vertical-align:top"/>
