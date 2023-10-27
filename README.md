@@ -19,6 +19,8 @@
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="html" style= "margin: 5px; vertical-align:top"/> 
 
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="html" style= "margin: 5px; vertical-align:top"/> 
+
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="html" style= "margin: 5px; vertical-align:top"/> 
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" style= "margin: 5px; vertical-align:top"/> 
@@ -41,11 +43,9 @@
 
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="html" style= "margin: 5px; vertical-align:top"/> 
 
+
 </p>
  
-## 🔗 Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randy-do-26b63b209)
-
 
 ## 👨🏻‍💻 Projects
 - [Wiki Guess](https://github.com/randyydoo/WikiGuess) - Full stack web application game where users guess the sports-related text written by AI!
