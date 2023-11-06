@@ -53,10 +53,10 @@
 - 
 ## 💬 Socials
 <a href="https://www.linkedin.com/in/randyydoo/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn" style="margin: 5px; vertical-align:top">
 </a>
 <a href="https://leetcode.com/randyydoo/">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode" style="margin: 5px; vertical-align:top">
 </a>
 
 
