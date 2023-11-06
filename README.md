@@ -43,15 +43,23 @@
 
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="html" style= "margin: 5px; vertical-align:top"/> 
 
-
 </p>
  
-
 ## 👨🏻‍💻 Projects
 - [Wiki Guess](https://github.com/randyydoo/WikiGuess) - Full stack web application game where users guess the sports-related text written by AI!
 - [Syllabus Simplified](https://github.com/randyydoo/Syllamizer) - Natural language processing to condense your syllabus documents!
 - [Numerican Classifier](https://github.com/randyydoo/NumericalClassifier) - Handwritten digit recognizer using convolutional neural networks!
 - [Task Tracker](https://github.com/randyydoo/TaskTracker) - Full stack web application for users to track tasks!
+- 
+## 💬 Socials
+<a href="https://www.linkedin.com/in/randyydoo/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://leetcode.com/randyydoo/">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode">
+</a>
+
+
 ## 📊 My Stats
 <div align = "center">
     <img align=top src="https://github-readme-stats-sigma-five.vercel.app/api?username=randyydoo&show_icons=true&theme=algolia&include_all_commits=true&hide=stars"/>
