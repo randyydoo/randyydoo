@@ -50,7 +50,7 @@
 - [Syllabus Simplified](https://github.com/randyydoo/Syllamizer) - Natural language processing to condense your syllabus documents!
 - [Numerican Classifier](https://github.com/randyydoo/NumericalClassifier) - Handwritten digit recognizer using convolutional neural networks!
 - [Task Tracker](https://github.com/randyydoo/TaskTracker) - Full stack web application for users to track tasks!
-- 
+
 ## 💬 Socials
 <a href="https://www.linkedin.com/in/randyydoo/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn" style="margin: 5px; vertical-align:top">
