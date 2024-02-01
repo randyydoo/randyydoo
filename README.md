@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img width="500" height="410" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhmMDg5OTY1ZmNiM2UwNWRiNjZhMWU2MTU3NWFlMzhjNzVhMWU2MCZjdD1z/W8oRwnoBndXVQ3OERD/giphy.gif">
+  <img width="200" height="166" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhmMDg5OTY1ZmNiM2UwNWRiNjZhMWU2MTU3NWFlMzhjNzVhMWU2MCZjdD1z/W8oRwnoBndXVQ3OERD/giphy.gif">
 </p>
 
 <p align="center">
@@ -13,13 +13,15 @@
 ## 💡 I've Used
 <p align="left">
 
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" style= " margin: 5px; vertical-align:top" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="pytohn" style= " margin: 5px; vertical-align:top" />
 
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" style= "margin: 5px; vertical-align:top"/>
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" style= "margin: 5px; vertical-align:top"/> 
 
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javscript" style= "margin: 5px; vertical-align:top"/> 
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" style= "margin: 5px; vertical-align:top"/> 
+
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" style= "margin: 5px; vertical-align:top"/> 
 
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" style= "margin: 5px; vertical-align:top"/> 
 
@@ -51,16 +53,25 @@
 
 </p>
  
-## 🔗Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randy-do-26b63b209)
+## 👨🏻‍💻 Projects
+- [Wiki Guess](https://github.com/randyydoo/WikiGuess) - Full stack web application game where users guess the sports-related text written by AI!
+- [Syllabus Simplified](https://github.com/randyydoo/Syllamizer) - Natural language processing to condense your syllabus documents!
+- [Numerican Classifier](https://github.com/randyydoo/NumericalClassifier) - Handwritten digit recognizer using convolutional neural networks!
+- [Task Tracker](https://github.com/randyydoo/TaskTracker) - Full stack web application for users to track tasks!
+
+## 💬 Socials
+<a href="https://www.linkedin.com/in/randyydoo/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn" style="margin: 5px; vertical-align:top">
+</a>
+<a href="mailto:randyydoo@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin: 5px; vertical-align:top">
+</a>
+<a href="https://leetcode.com/randyydoo/">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode" style="margin: 5px; vertical-align:top">
+</a>
 
 
-## 👨🏻‍💻About Me
-- 🎓 Third year computer science major at CSUF
-- 🤔 Learning about random stuff
-- 🏀 My favorite hobby is to play basketball
-
-## 📊My Stats
+## 📊 My Stats
 <div align = "center">
     <img align=top src="https://github-readme-stats-sigma-five.vercel.app/api?username=randyydoo&show_icons=true&theme=algolia&include_all_commits=true&hide=stars"/>
 <div>
