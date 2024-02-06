@@ -57,7 +57,7 @@
 - [Wiki Guess](https://github.com/randyydoo/WikiGuess) - Full stack web application game where users guess the sports-related text written by AI!
 - [Syllabus Simplified](https://github.com/randyydoo/Syllamizer) - Natural language processing to condense your syllabus documents!
 - [Numerican Classifier](https://github.com/randyydoo/NumericalClassifier) - Handwritten digit recognizer using convolutional neural networks!
-- [Personal Web app](https://github.com/randyydoo/web_app) - Personal Portfolio.
+- [Personal Web App](https://github.com/randyydoo/web_app) - Personal Portfolio.
 - [Task Tracker](https://github.com/randyydoo/TaskTracker) - Full stack web application for users to track tasks!
 
 ## 💬 Socials
