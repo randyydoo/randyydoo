@@ -61,13 +61,13 @@
 - [Task Tracker](https://github.com/randyydoo/TaskTracker) - Full stack web application for users to track tasks!
 
 ## 💬 Socials
-<a href="https://www.linkedin.com/in/randyydoo/">
+<a href="https://www.linkedin.com/in/randyydoo/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn" style="margin: 5px; vertical-align:top">
 </a>
-<a href="mailto:randyydoo@gmail.com">
+<a href="mailto:randyydoo@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin: 5px; vertical-align:top">
 </a>
-<a href="https://leetcode.com/randyydoo/">
+<a href="https://leetcode.com/randyydoo/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode" style="margin: 5px; vertical-align:top">
 </a>
 
