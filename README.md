@@ -54,7 +54,7 @@
 </p>
  
 ## 👨🏻‍💻 Projects
-- [Wiki Guess](https://github.com/randyydoo/WikiGuess) - Full stack web application game where users guess the sports-related text written by AI!
+- [Ai or Source](https://github.com/randyydoo/AiorSource) - Full stack web application game where users guess the source text vs ai!
 - [Syllabus Simplified](https://github.com/randyydoo/Syllamizer) - Natural language processing to condense your syllabus documents!
 - [Numerican Classifier](https://github.com/randyydoo/NumericalClassifier) - Handwritten digit recognizer using convolutional neural networks!
 - [Personal Web App](https://github.com/randyydoo/web_app) - Personal Portfolio.
